@@ -3,7 +3,7 @@
 Welcome to my **portfolio website** — a reflection of my work, skills, and journey as a **freelance developer**.  
 Built with **React**, **Vite**, and **Tailwind CSS**, this portfolio showcases who I am, what I’ve built, and how to connect with me.
 
-🔗 **Live Site:** [https://codervai.vercel.app/](https://codervai.vercel.app/)
+
 
 ---
 
