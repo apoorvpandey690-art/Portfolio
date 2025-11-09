@@ -59,7 +59,7 @@ const ExperienceSection = () => {
       company: "Codsoft",
       period: "Jan 2025",
       description:
-        "Worked on developing and customizing WordPress websites for clients globally.",
+        "Developed three full-stack web applications of easy-to-medium complexity, featuring dynamic front-ends and robust back-end systems. Projects include a task management dashboard, a personalized portfolio, and a professional services landing page—all built with a focus on seamless data synchronization and intuitive user experience (UI/UX).",
     },
     {
       icon: Layers,
